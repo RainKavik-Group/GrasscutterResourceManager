@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27294053-3fb6-43ca-a83a-672fb09366db" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcelBinOutput/ExcelBinOutputHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ress.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcelBinOutput/BuildData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcelBinOutput/BuildData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcelBinOutput/ExcelBinOutputCreateHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcelBinOutput/sub/LittleGameData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcelBinOutput/sub/LittleGameData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <workItem from="1663404813811" duration="213000" />
       <workItem from="1663405051436" duration="1138000" />
       <workItem from="1663406650961" duration="4439000" />
-      <workItem from="1663413621174" duration="11385000" />
+      <workItem from="1663413621174" duration="12196000" />
     </task>
     <servers />
   </component>
